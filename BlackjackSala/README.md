@@ -1,4 +1,5 @@
 # Sala de blackjack — Parcial de Estructuras de Datos
+Autores: Yerson Chilito Molina, Faber Andres Garzon
 
 Programa de consola en Java (sin paquetes, sin librerías externas).
 
